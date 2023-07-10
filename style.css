@@ -1,0 +1,35 @@
+.fst{
+    width: 25%;
+    height: 270px;
+    margin: 9px;
+    
+}
+.scn{
+    display: flex;
+    justify-content: center;
+   
+}
+.trd{
+    display: flex;
+
+
+}
+.six{
+    display: flex;
+}
+img{
+    width: 100%;
+    height: 270px;
+}
+#aa{
+    border-radius: 20px 0px 0px;
+}
+#bb{
+    border-radius: 0px 20px 0px 0px;
+}
+#cc{
+    border-radius: 0px 0px 0px 20px;
+}
+#dd{
+    border-radius: 0px 0px 20px;
+}
